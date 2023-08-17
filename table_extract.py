@@ -53,7 +53,7 @@ df.to_excel('pnas_2212794120_S89.xlsx')
 # Averages
 
 def tuple_mean(row):
-	return (row[0] + row[1]) / 2
+	return round((row[0] + row[1]) / 2, 3)
 	
 df2 = df.applymap(tuple_mean)
 
