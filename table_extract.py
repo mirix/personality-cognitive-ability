@@ -1,6 +1,5 @@
 import camelot
 import ast
-import numpy as np
 
 # Extract table from PDF
 
