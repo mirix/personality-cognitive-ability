@@ -1,4 +1,4 @@
-# Correlations between personality and cognitive abilities
+# Correlations between personality traits and cognitive abilities
 
 Python script to extract, in parseable format, table S89 from the [supporting information](https://www.pnas.org/doi/suppl/10.1073/pnas.2212794120/suppl_file/pnas.2212794120.sapp.pdf) of the following article:
 
